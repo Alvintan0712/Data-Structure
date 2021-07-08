@@ -1,0 +1,16 @@
+a
+an
+am
+not
+apple
+banana
+monday
+tuesday
+wednesday
+is
+are
+the
+thursday
+friday
+saturday
+sunday
